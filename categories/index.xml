@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Grid Side</title>
-    <link>https://www.example.com/categories/</link>
+    <link>https://andynuaa.github.io/andy.github.io/categories/</link>
     <description>Recent content in Categories on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;#169; by Your Name</copyright>
     <lastBuildDate>Thu, 30 Dec 2021 17:03:12 +0800</lastBuildDate>
     
-	<atom:link href="https://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andynuaa.github.io/andy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>随笔</title>
-      <link>https://www.example.com/categories/%E9%9A%8F%E7%AC%94/</link>
+      <link>https://andynuaa.github.io/andy.github.io/categories/%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Thu, 30 Dec 2021 17:03:12 +0800</pubDate>
       
-      <guid>https://www.example.com/categories/%E9%9A%8F%E7%AC%94/</guid>
+      <guid>https://andynuaa.github.io/andy.github.io/categories/%E9%9A%8F%E7%AC%94/</guid>
       <description></description>
     </item>
     
